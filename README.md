@@ -3,14 +3,14 @@
 
 Lists
 
-	1) https://github.com/topics/awesome
+	1) [https://github.com/topics/awesome](url)
 
 Newsletters
  
-	1) Quastor ( https://www.quastor.org/ )
-	2) Pragmatic Engineer ( https://blog.pragmaticengineer.com/newsletter/ )
-	3) Stackoverflow ( https://stackoverflow.blog/newsletter/ )
-	4) Pointer ( https://www.pointer.io/ )
+	1) Quastor ( [https://www.quastor.org/](url) )
+	2) Pragmatic Engineer ( [https://blog.pragmaticengineer.com/newsletter/](url) )
+	3) Stackoverflow ( [https://stackoverflow.blog/newsletter/](url) )
+	4) Pointer ( [https://www.pointer.io/](url) )
  
 Books
  
@@ -26,30 +26,30 @@ Books
  
 Podcasts
 
-	1) https://softskills.audio/
-	2) https://fullstackradio.com/
+	1) [https://softskills.audio/](url)
+	2) [https://fullstackradio.com/](url)
  
  
 Blogs
 
-	1) https://increment.com/
-	2) https://staffeng.com/
-	3) https://blog.pragmaticengineer.com/
-	4) https://www.lihaoyi.com/
+	1) [https://increment.com/](url)
+	2) [https://staffeng.com/](url)
+	3) [https://blog.pragmaticengineer.com/](url)
+	4) [https://www.lihaoyi.com/](url)
 	
 Leadership
 
-	1) https://randsinrepose.com/welcome-to-rands-leadership-slack/
-	2) https://www.manager-tools.com/manager-tools-basics
-	3) https://rework.withgoogle.com/guides/
+	1) [https://randsinrepose.com/welcome-to-rands-leadership-slack/](url)
+	2) [https://www.manager-tools.com/manager-tools-basics](url)
+	3) [https://rework.withgoogle.com/guides/](url)
 
 Reading
 
-	1) https://slack.engineering/how-we-design-our-apis-at-slack/
-	2) https://cloud.google.com/apis/design
+	1) [https://slack.engineering/how-we-design-our-apis-at-slack/](url)
+	2) [https://cloud.google.com/apis/design](url)
 	
 Resources
 
-	1) https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs
+	1) [https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs](url)
 	
 	
